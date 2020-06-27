@@ -2,5 +2,5 @@
 layout: none
 ---
 User-agent: *
-Sitemap: {{ site.url }}/kile/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
 
